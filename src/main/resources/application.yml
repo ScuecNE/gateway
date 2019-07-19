@@ -24,7 +24,7 @@ server:
 eureka:
   client:
     service-url:
-      defaultZone: http://127.0.0.1:10210/eureka/
+      defaultZone: http://47.95.14.192:10210/eureka/
 #logging:
 #  level:
 #    org.springframework.cloud.gateway: debug
